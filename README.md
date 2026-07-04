@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;ML+Engineer;Building+Cool+Stuff;Always+Learning."/>
 </p>
 
-##GIF
 <p align="center">
 <img width="450" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </p>
