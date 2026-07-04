@@ -63,14 +63,14 @@ public:
 </p>
 
 ---
-##Trophies
+## Trophies
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=nirmitgoyal&theme=tokyonight&no-frame=true&column=7"/>
 </p>
 
 
 ---
-##snake
+## snake
 <p align="center">
 <img src="https://raw.githubusercontent.com/nirmitgoyal/nirmitgoyal/output/github-contribution-grid-snake-dark.svg"/>
 </p>
@@ -85,7 +85,7 @@ public:
 - ☁ Exploring Cloud Technologies
 
 ---
-#Random Dev quotes
+## Random Dev quotes
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
@@ -111,7 +111,7 @@ public:
 <p align="center">
   
 ---
-##visitor
+## visitor
 ![](https://komarev.com/ghpvc/?username=nirmittgoyall&color=blue)
 
 </p>
