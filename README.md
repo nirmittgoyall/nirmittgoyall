@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Nirmit</h1>
 <h3 align="center">Full Stack Developer • Problem Solver • Building Cool Stuff</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Code.+Build.+Repeat.;Full+Stack+Developer;Competitive+Programmer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Code.+Build.+Repeat.;Full+Stack+Developer;ML+Engineer;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -13,21 +13,12 @@
 class Developer {
 public:
 
-    string name = "Your Name";
-    string role = "Full Stack Developer";
-    string location = "India";
-
-    vector<string> skills = {
-        "React",
-        "Node.js",
-        "Express",
-        "MongoDB",
-        "C++",
-        "Python"
-    };
+    string name = "Nirmit";
+    string role = "Full Stack App Developer";
+    string location = "Delhi, India";
+    string Hobbies = ["Calisthenic", "Football", "Electric-Guitarist", "Building & Designing crazy Apps"];
 
     string motto = "Keep Building.";
-
     bool availableForWork = true;
 };
 ```
@@ -75,16 +66,12 @@ public:
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nirmittgoyall/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:nirmitgoyal.work@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode"/>
 </a>
 
 </p>
