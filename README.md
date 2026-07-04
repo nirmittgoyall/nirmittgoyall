@@ -2,7 +2,12 @@
 <h3 align="center">Full Stack Developer • Problem Solver • Building Cool Stuff</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Code.+Build.+Repeat.;Full+Stack+Developer;ML+Engineer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;ML+Engineer;Building+Cool+Stuff;Always+Learning."/>
+</p>
+
+##GIF
+<p align="center">
+<img width="450" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </p>
 
 ---
@@ -41,7 +46,7 @@ public:
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=nirmittgoyall&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nirmittgoyall&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.demolab.com/?user=nirmittgoyall&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -49,6 +54,26 @@ public:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmittgoyall&layout=compact&theme=tokyonight&hide_border=true"/>
 
+</p>
+
+
+---
+## Activity Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmitgoyal&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+##Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nirmitgoyal&theme=tokyonight&no-frame=true&column=7"/>
+</p>
+
+
+---
+##snake
+<p align="center">
+<img src="https://raw.githubusercontent.com/nirmitgoyal/nirmitgoyal/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -61,12 +86,18 @@ public:
 - ☁ Exploring Cloud Technologies
 
 ---
+#Random Dev quotes
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
 
+
+---
 ## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nirmittgoyall/">
+<a href="https://www.linkedin.com/in/nirmittgoyall/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -79,7 +110,9 @@ public:
 ---
 
 <p align="center">
-
+  
+---
+#visitor
 ![](https://komarev.com/ghpvc/?username=nirmittgoyall&color=blue)
 
 </p>
