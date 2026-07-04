@@ -170,8 +170,6 @@ public:
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-&nbsp;&nbsp;
-
 <a href="mailto:nirmitgoyal.work@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
