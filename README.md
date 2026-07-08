@@ -72,9 +72,8 @@ public:
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/39d353/nirmittgoyall" alt="GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/39d353/nirmittgoyall" alt="GitHub Contributions" />
 </p>
-
 ---
 
 # 📈 Contribution Graph
