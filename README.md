@@ -72,7 +72,7 @@ public:
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/39d353/nirmittgoyall" alt="GitHub Contributions" />
+  <img src="https://ghchart.rshah.org/nirmittgoyall" />
 </p>
 ---
 
